@@ -16,7 +16,6 @@ This project includes:
 - Register & Login with JWT authentication
 - Browse sweets with images, description, stock, and price
 - Add sweets to cart & place orders
-- Mobile-friendly responsive UI
 
 ### 🛠️ Admin
 - Manage sweets (CRUD: Create, Read, Update, Delete)
