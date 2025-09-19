@@ -1,0 +1,1 @@
+Place your image files here (e.g. gulab_jamun.jpg, jalebi.jpg, rasgulla.jpg, kaju_katli.jpg, laddu.jpg). These files are served at /images/<filename>.
