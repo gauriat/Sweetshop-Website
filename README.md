@@ -26,23 +26,6 @@ This project includes:
 
 ---
 
-## 📂 Project Structure
-
-sweetshop-app/
-├── backend/ # Node.js + Express + MongoDB API
-│ ├── models/ # Mongoose models
-│ ├── routes/ # API routes (users, products, orders)
-│ ├── middleware/ # Auth & error handling
-│ └── server.js # Entry point
-├── frontend/ # React app
-│ ├── src/ # Components & pages
-│ └── public/ # Static files
-├── .gitignore
-└── README.md
-
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
