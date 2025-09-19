@@ -64,15 +64,21 @@ Open http://localhost:3000 → Frontend
 Backend API runs on http://localhost:5000
 
 Login as admin to manage sweets and users
+
 Login as user to browse & order sweets
 
 🌟 Tech Stack
 
 Frontend: React, React Router, Axios
+
 Backend: Node.js, Express.js
+
 Database: MongoDB (Mongoose ODM)
+
 Auth: JWT + bcrypt
+
 Styling: CSS + Inline styles
 
 👨‍💻 Author
+
 Gauri Thambkar
