@@ -78,7 +78,3 @@ Database: MongoDB (Mongoose ODM)
 Auth: JWT + bcrypt
 
 Styling: CSS + Inline styles
-
-👨‍💻 Author
-
-Gauri Thambkar
