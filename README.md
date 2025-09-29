@@ -29,18 +29,22 @@ This project includes:
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/<your-username>/sweetshop-app.git
+git clone [https://github.com/<your-username>/sweetshop-app.git](https://github.com/gauriat/Sweetshop-Website.git)
+
 cd sweetshop-app
 
 ### 2️⃣ Backend setup
 
 cd backend
+
 npm install
 
 Create a .env file in /backend:
 
 PORT=5000
+
 MONGO_URI=your_mongo_connection_string
+
 JWT_SECRET=your_secret_key
 
 Run backend:
@@ -50,6 +54,7 @@ npm run dev
 ### 3️⃣ Frontend setup
 
 cd ../frontend
+
 npm install
 
 Run frontend:
