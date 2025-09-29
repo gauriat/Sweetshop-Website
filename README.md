@@ -43,8 +43,7 @@ This project includes:
 
 - cd ../frontend
 - npm install
-- Run frontend:
-- npm start
+- Run frontend: npm start
 
 ### 🖥️ Usage
 
