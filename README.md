@@ -70,3 +70,13 @@ Backend API runs on http://localhost:5000
 Login as admin to manage sweets and users
 
 Login as user to browse & order sweets
+
+## ⚡ Scalability & Deployment
+
+- **Database Scaling:** MongoDB Atlas cluster with sharding & replicas for high availability.
+- **Caching:** Redis for frequently accessed sweets/product data.
+- **Load Balancing:** Nginx or AWS ELB to handle traffic spikes.
+- **Containerization:** Dockerized backend & frontend for portability.
+- **Cloud Deployment:** Backend on Render/Heroku, frontend on Netlify/Vercel.
+- **Monitoring:** Use tools like PM2, New Relic, or Datadog for uptime & performance.
+
