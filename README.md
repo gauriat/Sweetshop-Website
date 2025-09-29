@@ -36,16 +36,8 @@ This project includes:
 
 - cd backend
 - npm install
-- Create a .env file in /backend:
-PORT=5000
-
-MONGO_URI=your_mongo_connection_string
-
-JWT_SECRET=your_secret_key
-
-- Run backend:
-
-npm run dev
+- Create a .env file in /backend: with details of PORT, MONGO_URI, JWT_SECRET
+- Run backend: npm run dev
 
 ### 3️⃣ Frontend setup
 
